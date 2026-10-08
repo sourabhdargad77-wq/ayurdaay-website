@@ -1,0 +1,9 @@
+AYURDAAY CHIKITSALAY — FREE GITHUB PAGES DEPLOYMENT
+1. Create a PUBLIC GitHub repository named ayurdaay-website.
+2. Upload the files in this folder to the repository root (not a nested folder).
+3. In repository Settings > Pages, choose Deploy from a branch, main, /(root), Save.
+4. Once published, your URL should resemble https://YOUR-USERNAME.github.io/ayurdaay-website/ . Confirm it opens before sharing.
+5. This is a static website. Local preview editing is NOT secure authentication, and browser-local changes do not sync to the public website.
+6. Appointment and product order requests go via WhatsApp. Payment screenshot must be manually attached where sharing is unavailable. Do not regard transaction references as verified payments.
+7. Do not upload patient records, order screenshots or private credentials to a public GitHub repository.
+8. Free services and their policies can change. Keep your ZIP backup.
